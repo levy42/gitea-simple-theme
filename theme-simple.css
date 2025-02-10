@@ -1,4 +1,4 @@
-
+.chroma .bp {
     color: #999
 }
 
@@ -255,7 +255,7 @@
     --color-console-menu-border: #676767;
     --color-red: #db2828;
     --color-orange: #f2711c;
-    --color-yellow: #fbbd08;
+    --color-yellow: #e1ac00;
     --color-olive: #b5cc18;
     --color-green: #21ba45;
     --color-teal: #00b5ad;
@@ -322,22 +322,22 @@
     --color-gold: #a1882b;
     --color-white: #ffffff;
     --color-diff-added-linenum-bg: #d1f8d9;
-    --color-diff-added-row-bg: #e6ffed;
+    --color-diff-added-row-bg: #eefff3;
     --color-diff-added-row-border: #e6ffed;
-    --color-diff-added-word-bg: #acf2bd;
+    --color-diff-added-word-bg: #e6ffed;
     --color-diff-moved-row-bg: #f1f8d1;
-    --color-diff-moved-row-border: #d0e27f;
+    --color-diff-moved-row-border: #d3e387;
     --color-diff-removed-linenum-bg: #ffcecb;
     --color-diff-removed-row-bg: #ffeef0;
-    --color-diff-removed-row-border: #f1c0c0;
-    --color-diff-removed-word-bg: #fdb8c0;
-    --color-diff-inactive: #f0f2f4;
+    --color-diff-removed-row-border: #ffeef0;
+    --color-diff-removed-word-bg: #efc7c7;
+    --color-diff-inactive: #f3f3f3;
     --color-error-border: #e0b4b4;
     --color-error-bg: #fff6f6;
-    --color-error-bg-active: #fbb;
-    --color-error-bg-hover: #fdd;
+    --color-error-bg-active: #ffc4c4;
+    --color-error-bg-hover: #ffe0e0;
     --color-error-text: #9f3a38;
-    --color-success-border: #a3c293;
+    --color-success-border: #a3bf94;
     --color-success-bg: #fcfff5;
     --color-success-text: #2c662d;
     --color-warning-border: #c9ba9b;
@@ -349,7 +349,7 @@
     --color-red-badge: #db2828;
     --color-red-badge-bg: #db28281a;
     --color-red-badge-hover-bg: #db28284d;
-    --color-green-badge: #21ba45;
+    --color-green-badge: #27a848;
     --color-green-badge-bg: #21ba451a;
     --color-green-badge-hover-bg: #21ba454d;
     --color-yellow-badge: #fbbd08;
@@ -401,7 +401,7 @@
     --color-reaction-hover-bg: var(--color-primary-light-5);
     --color-reaction-active-bg: var(--color-primary-light-6);
     --color-tooltip-text: #fbfdff;
-    --color-tooltip-bg: rgba(28, 28, 28, 0.94);
+    --color-tooltip-bg: rgba(239, 239, 239, 0.94);
     --color-nav-bg: #ffffff;
     --color-nav-hover-bg: var(--color-secondary-light-1);
     --color-nav-text: var(--color-text);
