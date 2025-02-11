@@ -1,6 +1,14 @@
 #navbar {
     border-bottom: none;
 }
+.project-column {
+    border: none;
+    background-color: #ffffff;
+    border-radius: 0;
+}
+.issue-card {
+    border: none;
+}
 .chroma .bp {
     color: #999
 }
@@ -386,7 +394,7 @@
     --color-hover-opaque: #f1f3f5;
     --color-active: rgba(32, 32, 32, 0.08);
     --color-menu: #ffffff;
-    --color-card: #f8f9fb;
+    --color-card: #ffffff;
     --color-markup-table-row: rgba(110, 110, 110, 0.04);
     --color-markup-code-block: rgba(117, 117, 117, 0.06);
     --color-markup-code-inline: rgba(92, 92, 92, 0.07);
