@@ -2,8 +2,8 @@
     border-bottom: none;
 }
 .project-column {
-    border: none;
-    background-color: #ffffff;
+    border: none !important;
+    background-color: #ffffff !important;
     border-radius: 0;
 }
 .issue-card {
