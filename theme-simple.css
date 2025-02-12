@@ -226,8 +226,8 @@
     --color-primary-alpha-90: #4183c4e1;
     --color-primary-hover: var(--color-primary-dark-1);
     --color-primary-active: var(--color-primary-dark-2);
-    --color-secondary: #e4e4e4;
-    --color-secondary-dark-1: #e3e3e3;
+    --color-secondary: #e3e3e3;
+    --color-secondary-dark-1: #e2e2e2;
     --color-secondary-dark-2: #bfbfbf;
     --color-secondary-dark-3: #a5a5a5;
     --color-secondary-dark-4: #9c9c9c;
