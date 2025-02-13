@@ -226,7 +226,7 @@
     --color-primary-alpha-90: #4183c4e1;
     --color-primary-hover: var(--color-primary-dark-1);
     --color-primary-active: var(--color-primary-dark-2);
-    --color-secondary: #e3e3e3;
+    --color-secondary: #e2e2e2;
     --color-secondary-dark-1: #e2e2e2;
     --color-secondary-dark-2: #bfbfbf;
     --color-secondary-dark-3: #a5a5a5;
@@ -389,7 +389,7 @@
     --color-input-border-hover: var(--color-secondary-dark-1);
     --color-light: rgba(32, 32, 32, 0.02);
     --color-light-mimic-enabled: rgba(0, 0, 0, calc(6 / 255 * 222 / 255 / var(--opacity-disabled)));
-    --color-light-border: rgba(41, 41, 41, 0.06);
+    --color-light-border: rgba(41, 41, 41, 0.07);
     --color-hover: rgba(23, 23, 23, 0.03);
     --color-hover-opaque: #f1f3f5;
     --color-active: rgba(32, 32, 32, 0.08);
