@@ -389,7 +389,7 @@
     --color-input-border-hover: var(--color-secondary-dark-1);
     --color-light: rgba(32, 32, 32, 0.02);
     --color-light-mimic-enabled: rgba(0, 0, 0, calc(6 / 255 * 222 / 255 / var(--opacity-disabled)));
-    --color-light-border: rgba(41, 41, 41, 0.05);
+    --color-light-border: rgba(41, 41, 41, 0.06);
     --color-hover: rgba(23, 23, 23, 0.03);
     --color-hover-opaque: #f1f3f5;
     --color-active: rgba(32, 32, 32, 0.08);
