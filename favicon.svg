@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="180.4602 154.2786 92.5226 185.4589" width="92.5226px" height="185.459px">
-  <g transform="matrix(0.20535199344158173, 0, 0, 0.20535199344158173, 180.46022033691406, 154.2786102294922)"/>
-  <g transform="matrix(4.380841255187988, 0, 0, 4.380841255187988, 116.23629760742186, 183.2976837158203)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="180.4602 151.139 92.5226 188.5985" width="92.5226px" height="188.599px">
+  <g transform="matrix(0.20535199344158173, 0, 0, 0.20882800221443176, 180.46022033691406, 151.13900756835938)" style=""/>
+  <g transform="matrix(4.380841255187988, 0, 0, 4.4550042152404785, 116.23629760742186, 180.6493377685547)" style="">
     <line class="a" x1="26.33" y1="17.85" x2="30.15" y2="21.67" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(142, 142, 142);"/>
     <line class="a" x1="17.4" y1="8.92" x2="21.67" y2="13.19" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(142, 142, 142);"/>
     <circle class="a" cx="24" cy="32.41" r="3.3" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(142, 142, 142);"/>
