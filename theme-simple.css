@@ -747,11 +747,11 @@
         --color-primary-dark-5: #e5e5e5;
         --color-primary-dark-6: #f3f3f3;
         --color-primary-dark-7: #f4f8fb;
-        --color-primary-light-1: #adadad;
-        --color-primary-light-2: #999999;
-        --color-primary-light-3: #878787;
-        --color-primary-light-4: #727272;
-        --color-primary-light-5: #4b4b4b;
+        --color-primary-light-1: #636363;
+        --color-primary-light-2: #606060;
+        --color-primary-light-3: #676767;
+        --color-primary-light-4: #5d5d5d;
+        --color-primary-light-5: #454545;
         --color-primary-light-6: #232323;
         --color-primary-light-7: #050505;
         --color-primary-alpha-10: #4183c419;
@@ -779,8 +779,8 @@
         --color-secondary-dark-11: #c5cbd2;
         --color-secondary-dark-12: #cfd4da;
         --color-secondary-dark-13: #d2d7dc;
-        --color-secondary-light-1: #434343;
-        --color-secondary-light-2: #323232;
+        --color-secondary-light-1: #323232;
+        --color-secondary-light-2: #2b2b2b;
         --color-secondary-light-3: #212121;
         --color-secondary-light-4: #1c1c1c;
         --color-secondary-alpha-10: #3b444c19;
@@ -953,7 +953,7 @@
         --color-tooltip-text: #f9fafb;
         --color-tooltip-bg: #000b17f0;
         --color-nav-bg: var(--color-body);
-        --color-nav-hover-bg: var(--color-secondary-light-1);
+        --color-nav-hover-bg: var(--color-secondary-light-4);
         --color-nav-text: var(--color-text);
         --color-secondary-nav-bg: var(--color-body);
         --color-label-text: var(--color-text);
