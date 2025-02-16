@@ -8,6 +8,9 @@
 .issue-card {
     border: none;
 }
+.menu {
+    border: none;
+}
 
 @media (prefers-color-scheme: light) {
     .chroma .bp {
