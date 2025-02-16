@@ -9,7 +9,7 @@
     border: none;
 }
 .menu {
-    border: none;
+    border: none !important;
 }
 
 @media (prefers-color-scheme: light) {
