@@ -199,6 +199,8 @@
 
 @media (prefers-color-scheme: light) {
     :root {
+        --border-radius: 0;
+        --border-radius-medium: 0;
         --is-dark-theme: false;
         --color-primary: #242424;
         --color-primary-contrast: #ffffff;
@@ -748,6 +750,8 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
+        --border-radius: 0;
+        --border-radius-medium: 0;
         --is-dark-theme: true;
         --color-primary: rgb(245, 245, 245);
         --color-primary-contrast: #343434;
